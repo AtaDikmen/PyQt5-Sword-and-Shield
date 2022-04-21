@@ -16,3 +16,5 @@ If you choose a sword, you will deal 1-100 damage to the enemy.
 If you choose a shield, you will absorb 1-100 damage from next damage.
 
 Both players have 500 health points.
+
+20.04.2022
