@@ -18,3 +18,6 @@ If you choose a shield, you will absorb 1-100 damage from next damage.
 Both players have 500 health points.
 
 20.04.2022
+
+
+![PyQt5 Sword and Shield Image](https://user-images.githubusercontent.com/103599799/171154546-9a8d1429-8ac6-4d2c-9673-30be1d8afd18.PNG)
